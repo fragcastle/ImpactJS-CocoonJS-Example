@@ -19,3 +19,5 @@ lib/weltmeister
 tools/
 weltmeister.html
 build/
+
+game.min.js
